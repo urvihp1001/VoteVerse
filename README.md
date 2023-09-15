@@ -9,6 +9,6 @@ https://netbeans.org/downloads/start.html?platform=windows&lang=en&option=all
 ### MySQL
 
 ## Features
-### Only 1 vote per user
-### Total secrecy about who the voter voted for 
-### Easy to update voter and candidate details
+Only 1 vote per user
+Total secrecy about who the voter voted for 
+Easy to update voter and candidate details
